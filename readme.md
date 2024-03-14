@@ -36,6 +36,9 @@
 }
 ```
 
+## Terminal
+In order to have the sickest terminal :D -> https://www.youtube.com/watch?v=Voei5KJaeIA&
+
 ## Extensions
 - Angular language service (Angular)
 - Angular snippets version 16 (John Papa)
