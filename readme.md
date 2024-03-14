@@ -5,7 +5,7 @@
 - https://www.youtube.com/watch?v=8AYhuRiIZnw&t=399s
 
 ## settings.json
-
+```
 {
     "editor.formatOnPaste": true,
     "terminal.integrated.env.windows": {},
@@ -34,6 +34,7 @@
     "editor.scrollbar.vertical": "auto",
     "editor.formatOnSave": true
 }
+```
 
 ## Extensions
 - Angular language service (Angular)
