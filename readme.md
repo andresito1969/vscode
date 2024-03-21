@@ -23,16 +23,22 @@
     "editor.stickyScroll.enabled": true,
     "files.autoSave": "afterDelay",
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.colorTheme": "One Dark Pro",
     "oneDarkPro.bold": true,
     "oneDarkPro.vivid": true,
     "editor.linkedEditing": true,
     "breadcrumbs.enabled": false,
     //  ⬆️-> Midu ⬇️ <- hola mundo
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    // "terminal.integrated.defaultProfile.windows": "Git Bash",
     "editor.minimap.enabled": false,
     "editor.scrollbar.vertical": "auto",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    // ⬇️cool terminal from youtube video (check github andresito1969 vscode)
+    // "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.env.linux": {},
+    "window.titleBarStyle": "custom",
+    "workbench.sideBar.location": "right",
 }
 ```
 
@@ -43,15 +49,26 @@ In order to have the sickest terminal :D -> https://www.youtube.com/watch?v=Voei
 - Angular language service (Angular)
 - Angular snippets version 16 (John Papa)
 - Annotator (Ryuichi Inagaki)
+- Auto import (steoates)
+- Auto Rename Tag (Jun-Han)
+- Better comments (Aaron Bond)
+- Code Snapshot (Robertz)
+- Code Spell Checker (Street slide software)
 - Console Ninja (Wallaby.js)
 - Error Lens (Alexander)
 - Eslint (Microsoft)
 - Fluent icons (Miguel Solorio)
+- Git Lens (GitKraken)
 - Image preview (Kiss Tamás)
+- Live Server (Ritwick Dey)
+- Yu Zhang (Mark down all in one)
 - One Dark Pro (binaryify)
+- Path Intellisense (Christian Kohler)
+- Prettier (prettier)
 - Pretty TypeScript Errors (yoavbls)
 - Symbols (Miguel Solorio)
 - Template String Converter (meganrogge)
+- Todo Highlight (Wayou Liu)
 - Version Lens (pflannery)
 - Vue - Official (vue)
 - Vue 3 snippets (hollowtree)
