@@ -36,7 +36,7 @@
     "terminal.integrated.fontFamily": "monospace",
     "terminal.integrated.env.linux": {},
     "window.titleBarStyle": "custom",
-    "workbench.sideBar.location": "right",
+    "workbench.sideBar.location": "left",
     // Might be good
     "git.autofetch": true,
 }
