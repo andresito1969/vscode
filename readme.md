@@ -9,9 +9,8 @@
 {
     "editor.formatOnPaste": true,
     "terminal.integrated.env.windows": {},
-    "workbench.productIconTheme": "fluent-icons",
     "symbols.hidesExplorerArrows": false,
-    "workbench.iconTheme": "symbols",
+    "workbench.iconTheme": "material-icon-theme",
     "console-ninja.featureSet": "Community",
     "editor.fontFamily": "Cascadia Code PL",
     "editor.fontLigatures": true,
@@ -23,9 +22,7 @@
     "editor.stickyScroll.enabled": true,
     "files.autoSave": "afterDelay",
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "workbench.colorTheme": "One Dark Pro",
-    "oneDarkPro.bold": true,
-    "oneDarkPro.vivid": true,
+    "workbench.colorTheme": "Default Dark Modern",
     "editor.linkedEditing": true,
     "breadcrumbs.enabled": false,
     //  ⬆️-> Midu ⬇️ <- hola mundo
@@ -39,6 +36,8 @@
     "terminal.integrated.env.linux": {},
     "window.titleBarStyle": "custom",
     "workbench.sideBar.location": "right",
+    // Might be good
+    "git.autofetch": true,
 }
 ```
 
