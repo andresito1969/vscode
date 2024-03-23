@@ -39,6 +39,7 @@
     "workbench.sideBar.location": "left",
     // Might be good
     "git.autofetch": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
 }
 ```
 
