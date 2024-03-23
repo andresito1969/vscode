@@ -3,7 +3,8 @@
 - https://www.youtube.com/watch?v=HiVnGgYudLY
 - https://www.youtube.com/watch?v=uyEUVgNMvGI
 - https://www.youtube.com/watch?v=8AYhuRiIZnw&t=399s
-
+- https://www.youtube.com/watch?v=Ei1y51K8jQk&t=90s
+- 
 ## settings.json
 ```
 {
@@ -72,3 +73,7 @@ In order to have the sickest terminal :D -> https://www.youtube.com/watch?v=Voei
 - Vue - Official (vue)
 - Vue 3 snippets (hollowtree)
 - Activitus Bar (Gruntfuggly) //Disabled
+
+
+## Snippets
+In progress...
